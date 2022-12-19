@@ -4,6 +4,8 @@ Olá, eu sou o Luís Felipe 🖖🏻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.flpe)
 
 ![Luís Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lflpe&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lflpe)](https://github.com/lflpe/github-readme-stats)
+
 
 👨🏻‍💻 - Tecnologias que eu trabalho:
 <div style="display: inline_block">
