@@ -14,6 +14,9 @@ Olá, eu sou o Luís Felipe 🖖🏻
 </div>
 </br>
 
+
+🎵 - Spotify
+</br>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12170915590)
 
 
